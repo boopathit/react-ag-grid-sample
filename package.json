@@ -8,7 +8,7 @@
     "ag-grid-community": "^20.1.0",
     "ag-grid-enterprise": "^20.1.0",
     "ag-grid-react": "^20.1.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-redux": "^6.0.1",
